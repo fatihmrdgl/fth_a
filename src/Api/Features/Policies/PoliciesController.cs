@@ -15,6 +15,9 @@ public class PoliciesController : ControllerBase
     [HttpGet]
     public async Task<IEnumerable<PolicyDto>> GetAll() => await _service.GetAllAsync();
 
+    [HttpGet("expiring")]
+    public async Task<IEnumerable<ReportPolicyDto>> GetExpiring([FromQuery] int days = 30) => await _service.GetExpiringAsync(days);
+
     [HttpGet("{id:guid}")]
     public async Task<ActionResult<PolicyDto>> Get(Guid id)
     {

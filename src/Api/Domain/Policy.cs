@@ -11,6 +11,6 @@ public class Policy
     public DateTime StartDate { get; set; }
     public DateTime EndDate { get; set; }
     public decimal Premium { get; set; }
-    public string Status { get; set; } = "Active"; // Active, Expired, Cancelled
+    public PolicyStatus Status { get; set; } = PolicyStatus.Aktif;
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 }

@@ -43,6 +43,30 @@ public class PolicyService : IPolicyService
         return await _db.Policies.AsNoTracking().Select(p => Map(p)).ToListAsync();
     }
 
+    public async Task<IEnumerable<ReportPolicyDto>> GetExpiringAsync(int days)
+    {
+        var now = DateTime.UtcNow;
+        var upper = now.AddDays(days);
+        return await _db.Policies
+            .AsNoTracking()
+            .Include(p => p.Customer)
+            .Include(p => p.Product)
+            .Where(p => p.EndDate >= now && p.EndDate <= upper)
+            .Select(p => new ReportPolicyDto(
+                p.Id,
+                p.PolicyNumber,
+                p.CustomerId,
+                p.Customer.FirstName + " " + p.Customer.LastName,
+                p.ProductId,
+                p.Product.Name,
+                p.StartDate,
+                p.EndDate,
+                p.Premium,
+                p.Status
+            ))
+            .ToListAsync();
+    }
+
     public async Task<PolicyDto?> GetAsync(Guid id)
     {
         var entity = await _db.Policies.AsNoTracking().FirstOrDefaultAsync(p => p.Id == id);

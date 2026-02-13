@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlar\\fth_a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\src\\pages\\landing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\src\\pages\\landing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\src\\pages\\customers.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\src\\pages\\customers.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|d:\\kodlar\\fth_a\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|d:\\kodlar\\fth_a\\src\\api\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|solutionrelative:src\\api\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\src\\api\\client.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\src\\api\\client.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|d:\\kodlar\\fth_a\\web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24C9A290-1808-4282-B9A2-03790ABFB700}|D:\\Kodlar\\fth_a\\web|solutionrelative:web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|d:\\kodlar\\fth_a\\src\\api\\features\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|solutionrelative:src\\api\\features\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|d:\\kodlar\\fth_a\\src\\api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9D1A6A-5922-A1E9-F6CB-4338DB67CEE7}|src\\Api\\MimCrm.Api.csproj|solutionrelative:src\\api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\src\\App.tsx",
+              "RelativeDocumentMoniker": "web\\src\\App.tsx",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\src\\App.tsx",
+              "RelativeToolTip": "web\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T16:17:22.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Landing.tsx",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\src\\pages\\Landing.tsx",
+              "RelativeDocumentMoniker": "web\\src\\pages\\Landing.tsx",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\src\\pages\\Landing.tsx",
+              "RelativeToolTip": "web\\src\\pages\\Landing.tsx",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T16:11:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.tsx",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\src\\pages\\Customers.tsx",
+              "RelativeDocumentMoniker": "web\\src\\pages\\Customers.tsx",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\src\\pages\\Customers.tsx",
+              "RelativeToolTip": "web\\src\\pages\\Customers.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T16:06:42.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\src\\Api\\package-lock.json",
+              "RelativeDocumentMoniker": "src\\Api\\package-lock.json",
+              "ToolTip": "D:\\Kodlar\\fth_a\\src\\Api\\package-lock.json",
+              "RelativeToolTip": "src\\Api\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T16:06:32.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\src\\main.tsx",
+              "RelativeDocumentMoniker": "web\\src\\main.tsx",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\src\\main.tsx",
+              "RelativeToolTip": "web\\src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T16:00:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "web\\src\\pages\\Login.tsx",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "web\\src\\pages\\Login.tsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T15:59:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "client.ts",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\src\\api\\client.ts",
+              "RelativeDocumentMoniker": "web\\src\\api\\client.ts",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\src\\api\\client.ts",
+              "RelativeToolTip": "web\\src\\api\\client.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T15:59:08.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\index.html",
+              "RelativeDocumentMoniker": "web\\index.html",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\index.html",
+              "RelativeToolTip": "web\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-12T15:59:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\package.json",
+              "RelativeDocumentMoniker": "web\\package.json",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\package.json",
+              "RelativeToolTip": "web\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T15:59:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\vite.config.ts",
+              "RelativeDocumentMoniker": "web\\vite.config.ts",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\vite.config.ts",
+              "RelativeToolTip": "web\\vite.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T15:59:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\src\\Api\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\Kodlar\\fth_a\\src\\Api\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Api\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:55:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\src\\Api\\Features\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Features\\Auth\\AuthController.cs",
+              "ToolTip": "D:\\Kodlar\\fth_a\\src\\Api\\Features\\Auth\\AuthController.cs",
+              "RelativeToolTip": "src\\Api\\Features\\Auth\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vw8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:52:22.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\web\\Web.config",
+              "RelativeDocumentMoniker": "web\\Web.config",
+              "ToolTip": "D:\\Kodlar\\fth_a\\web\\Web.config",
+              "RelativeToolTip": "web\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-12T15:48:25.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kodlar\\fth_a\\src\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
+              "ToolTip": "D:\\Kodlar\\fth_a\\src\\Api\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T15:46:07.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
