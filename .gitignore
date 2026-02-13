@@ -1,3 +1,4 @@
 web/node_modules/*
 src/Api/bin/*
 src/Api/obj/*
+.vs/*
